@@ -14,11 +14,6 @@
 <p1 align="center"><a href="https://II_apna_gunjan_II"><img src=https://telegra.ph/file/567d2e17b8f38df99ce99.jpg" width="400"></a></p1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
-
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Gunjan890/BABYXMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -28,7 +23,7 @@
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/Gunjan980//graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/Gunjan890//graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/II_gunjan_singh_II"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
