@@ -23,7 +23,7 @@
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/Gunjan890//graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Gunjan890/Gunjan890)](https://github.com/Gunjan890//graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/II_gunjan_singh_II"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
