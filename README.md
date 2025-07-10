@@ -16,11 +16,7 @@
 
 
 
-[![GIF](https://github.com/Gunjan890/BABYXMUSIC/blob/main/Gunjan890.gif)](https://github.com/Gunjan890)
-   [![# 𝙶𝚄𝙽𝙹𝙰𝙽🐬 𝚂𝙸𝙽𝙶𝙷🐬](https://github-stats-gunjan.vercel.app/api?username=TEAMPURVI "GUNJAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
 
-
-GO TO [RELOAD.PY](https://github.com/GUNJAN890/SONALI_MUSIC/blob/main/SONALI/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 </p>
 GUNJAN
