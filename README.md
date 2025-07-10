@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+POWERED+BY+GUNJAN+SINGH+BHAGALPUR+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝙶𝚄𝙽𝙹𝙰𝙽🐬 𝚂𝙸𝙽𝙶𝙷🐬 </b></h1>
-<p align="center"><a href="https://II_apna_gunjan_II"><img src="https://graph.org/file/94918b340445db8a72c02.jpg" width="400"></a></p>
+<p align="center"><a href="https://II_gunjan_singh_II"><img src="https://graph.org/file/94918b340445db8a72c02.jpg" width="400"></a></p>
 <p1 align="center"><a href="https://II_apna_gunjan_II"><img src=https://telegra.ph/file/567d2e17b8f38df99ce99.jpg" width="400"></a></p1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
